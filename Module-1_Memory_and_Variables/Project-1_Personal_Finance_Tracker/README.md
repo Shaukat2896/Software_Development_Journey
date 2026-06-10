@@ -1,6 +1,6 @@
 # Personal Expense Assistant
 
-**Author:** HiddenCrafts alias Muchukota Shaukat
+**Author:** HiddenCrafts - Muchukota Shaukat
 
 ## Version 1
 
